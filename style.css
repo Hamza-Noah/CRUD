@@ -1,0 +1,28 @@
+textarea {
+  resize: none;
+}
+body{
+  height: 5000;
+} 
+
+label{
+  margin-bottom: 5px;
+}
+thead {
+  border-bottom: solid 1px #000;
+}
+
+th{
+  padding-bottom: 10px;
+}
+
+.up  {
+  display: none;
+  cursor: pointer;
+  border: none;
+  color: white;
+  background-color: #2a8a85;
+  font-weight: bolder;
+  padding: 7px;
+  border-radius: 50%;
+}
